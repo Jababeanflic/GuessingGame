@@ -1,7 +1,7 @@
 # GuessingGame Project
 
-# Tutorial for HND-OOP 
+ Tutorial for HND-OOP 
 
-# Working
+ Working
 
-# Naming convention need reviewing 
+ Naming convention need reviewing 
