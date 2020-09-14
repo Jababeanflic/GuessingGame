@@ -13,3 +13,5 @@ public class NumberToGuess {
         System.out.println(Player+ " has guessed " +g);        // Method to make random number that player guess
     }
 }
+
+// Methods are almost identical, look into single method

@@ -8,7 +8,7 @@ public class GuessingGame {
 
         int NumberToGuess;
         int p1Guess;
-        int p2Guess;                        // Variables Created to hold guesses
+        int p2Guess;                            // Variables Created to hold guesses
         int p3Guess;
 
         while (true) {

@@ -24,7 +24,5 @@ public class AnyoneRight {
         } else {
             System.out.println("Lets try again");
         }
-
-
     }
 }
